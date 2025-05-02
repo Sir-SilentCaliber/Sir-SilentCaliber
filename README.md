@@ -1,63 +1,92 @@
-<h2 align="left">Hi 👋! My name is Adam, Aka Silent Caliber, and I'm a Web & Software Developer, from Morocco</h2>
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+<h2 align="center">I'm Adam, aka Silent Caliber — Web & Software Developer from Morocco</h2>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F77B00&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1362952769945997432/1367981045252751371/Punk_Team.gif?ex=68168f21&is=68153da1&hm=10d0644916f604336d19a6c2be83a8e2acf691107d1a2e37d9ef216b51238e6b&"  />
+## 🌟 About Me
 
-###
+- 🌍 I'm passionate about **web development**, **open-source contributions**, and **solving challenging problems**.
+- 📖 Currently, I'm learning **AI/ML frameworks** and **cloud-native development**.
+- 💡 I love experimenting with new libraries, technologies, and frameworks.
+- 🎯 My goal is to create impactful solutions that help people and make life easier.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sir-SilentCaliber&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sir-SilentCaliber&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-SilentCaliber&layout=compact&theme=tokyonight" height="180" />
 </div>
 
-###
+---
+
+## 📂 Featured Projects
+
+Here are a few of my favorite projects:
+
+- **[Project Name 1](#)**: Brief description of the project.
+- **[Project Name 2](#)**: Brief description of the project.
+- **[Project Name 3](#)**: Brief description of the project.
+
+Feel free to explore more in the [repositories](https://github.com/Sir-SilentCaliber?tab=repositories).
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://tryhackme.com/" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88cc14.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe" /></a>
+</div>
+
+---
+
+## 🎧 Spotify Recently Played
 
 <div align="center">
   <a href="https://open.spotify.com/user/Sir-SilentCaliber">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sir-SilentCaliber&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sir-SilentCaliber&count=5" alt="Spotify recently played" />
   </a>
 </div>
 
-###
+---
+
+## 💬 Let's Collaborate!
+
+I'm always open to exciting opportunities and collaborations! Feel free to reach out via any of my social platforms or drop me an email.
+
+---
+
+## 🖼️ GIF Animation (Optional)
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1362952769945997432/1367981045252751371/Punk_Team.gif" alt="GIF Animation" height="200" />
+</p>
