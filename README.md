@@ -61,7 +61,7 @@ Feel free to explore more in the [repositories](https://github.com/Sir-SilentCal
 ## 🔗 Connect with Me
 
 <div align="center">
-  <a href="[https://www.youtube.com/](https://youtube.com/@sir.silentcaliber?si=vIYKFHWdexr_kBuh)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://youtube.com/@sir.silentcaliber?si=vIYKFHWdexr_kBuh" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/moh.al_husseini?igsh=eTI2bXNzYWQ2MHlq" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://discord.com/@hos2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:Sir.SilentCaliber@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
