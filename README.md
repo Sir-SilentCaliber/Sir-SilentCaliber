@@ -50,9 +50,9 @@
 
 Here are a few of my favorite projects:
 
-- **[Project Name 1](#)**: Brief description of the project.
-- **[Project Name 2](#)**: Brief description of the project.
-- **[Project Name 3](#)**: Brief description of the project.
+- **[Discord Bot Project](#)**: Coming Soon.
+- **[Discord SelfBot Project](#)**: Coming Soon.
+- **[Discord Auto Account Creation](#)**: Coming Soon.
 
 Feel free to explore more in the [repositories](https://github.com/Sir-SilentCaliber?tab=repositories).
 
@@ -61,10 +61,10 @@ Feel free to explore more in the [repositories](https://github.com/Sir-SilentCal
 ## 🔗 Connect with Me
 
 <div align="center">
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" /></a>
-  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="[https://www.youtube.com/](https://youtube.com/@sir.silentcaliber?si=vIYKFHWdexr_kBuh)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/moh.al_husseini?igsh=eTI2bXNzYWQ2MHlq" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.com/@hos2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:Sir.SilentCaliber@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://tryhackme.com/" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-88cc14.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe" /></a>
 </div>
 
@@ -84,9 +84,3 @@ Feel free to explore more in the [repositories](https://github.com/Sir-SilentCal
 
 I'm always open to exciting opportunities and collaborations! Feel free to reach out via any of my social platforms or drop me an email.
 
----
-
-## 🖼️ GIF Animation (Optional)
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1362952769945997432/1367981045252751371/Punk_Team.gif" alt="GIF Animation" height="200" />
-</p>
