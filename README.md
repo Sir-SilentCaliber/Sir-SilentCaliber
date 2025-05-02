@@ -74,7 +74,7 @@ Feel free to explore more in the [repositories](https://github.com/Sir-SilentCal
 
 <div align="center">
   <a href="https://open.spotify.com/user/Sir-SilentCaliber">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Sir-SilentCaliber&count=5" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lzegvletzly2ontxxuuwu3st6e&count=5" alt="Spotify recently played" />
   </a>
 </div>
 
